@@ -1,5 +1,13 @@
 == README
 
+Assignment from UNM coursera Blog
+
+To run remember roughly
+rake db migrate env=development
+Rails Server
+and it runs.
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
